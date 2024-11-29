@@ -1,0 +1,14 @@
+#numpy==2.1.3
+opencv-python==4.10.0.84
+pillow==11.0.0
+requests==2.32.3
+#login_vision
+matplotlib==3.9.2
+mtcnn==1.0.0
+tensorflow==2.18.0
+keras==3.6.0
+torch==2.5.1
+# Arduino
+pyserial==3.5
+torchvision==0.20.1
+
